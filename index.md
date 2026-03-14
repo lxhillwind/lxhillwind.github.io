@@ -1,4 +1,14 @@
-draft:
+notes (wiki, TIL, ...)
+
+<https://lxhillwind.github.io/notes/>
+
+---
+
+blog
+
+---
+
+draft
 
 - [table-im: 使用 Vim9 script 实现, 拥有熟悉外观的码表输入法](table-im.md)
 - tmux-edit-line
